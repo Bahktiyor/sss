@@ -1,0 +1,65 @@
+body{
+    background-color: blanchedalmond;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.tepa{
+    border: none;
+    height: 200px;
+    width: 1350px;
+   
+    background-color:rgb(217, 28, 28) ;
+}
+.orta{
+    border: none;
+    height: 300px;
+    width: 1350px;
+    background-color: rgb(41, 8, 134);
+  
+}
+.aylana{
+    border: 3px solid  rgb(41, 8, 134);
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    box-shadow: 0 0 10px  rgb(13, 13, 13);
+    margin-left: 40%;
+    padding-top: 20px;
+    
+    
+    .s1{
+        color: black;
+        font-family: "DM Sans", serif;
+        text-align: center; 
+    }
+    .s2{
+        color: black;
+        font-family: "DM Sans", serif;
+        text-align: center;
+    }
+    
+}
+ 
+.past{
+    border: none;
+    height: 200px;
+    width: 1350px;
+   
+    background-color:rgb(217, 28, 28) ;
+}
+.l1{
+    color: azure;
+    text-align: center;
+    font-family: "DM Sans", serif;
+    font-size: 50px;
+}
+
+h1{
+    color: rgb(13, 13, 13);
+    text-align: center;
+    font-family: "DM Sans", serif;
+    font-size: 50px;
+}
